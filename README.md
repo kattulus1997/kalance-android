@@ -8,6 +8,7 @@ Kalance es un diario privado de calorías y macronutrientes, sin anuncios. Permi
 
 - [Descarga oficial de Kalance 1.3.0](https://downloads.kalance.app/android/kalance-1.3.0.apk)
 - [Página de versiones y ayuda de instalación](https://kalance.app/es/releases)
+- [Instalar y recibir actualizaciones con Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium%3A%2F%2Fadd%2Fhttps%3A%2F%2Fgithub.com%2Fkattulus1997%2Fkalance-android)
 
 Versión: `1.3.0` (`versionCode 8`)  
 Paquete: `app.kalance.android`  
@@ -17,8 +18,8 @@ La sección **Releases** contiene una copia inmutable del mismo APK firmado. Com
 
 ## Enlaces
 
-- [Crear una cuenta gratis](https://kalance.app/es/register?utm_source=github&utm_medium=repository&utm_campaign=android_release)
-- [Calculadora gratuita de calorías y macros](https://kalance.app/es/calculadora-calorias-macros?utm_source=github&utm_medium=repository&utm_campaign=android_release)
+- [Crear una cuenta gratis](https://kalance.app/login?locale=es&mode=register&utm_source=github&utm_medium=repository&utm_campaign=android_release)
+- [Calculadora gratuita de calorías y macros](https://kalance.app/es/calculator?utm_source=github&utm_medium=repository&utm_campaign=android_release)
 - [Privacidad](https://kalance.app/es/privacy)
 - [Contacto](mailto:soporte@kalance.app)
 
