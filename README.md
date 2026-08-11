@@ -10,7 +10,7 @@ Kalance es un diario privado de calorías y macronutrientes, sin anuncios. Permi
 - [Página de versiones y ayuda de instalación](https://kalance.app/es/releases)
 - [Instalar y recibir actualizaciones con Obtainium](https://apps.obtainium.imranr.dev/redirect?r=obtainium%3A%2F%2Fadd%2Fhttps%3A%2F%2Fgithub.com%2Fkattulus1997%2Fkalance-android)
 
-Versión: `1.3.1` (`versionCode 9`)  
+Versión: `1.3.1` (`versionCode 9`)
 Paquete: `app.kalance.android`  
 SHA-256: `992aa78445b8438ed2e245342cb830f4ce4500cd987f5c7db7816ac5bae1a07c`
 
